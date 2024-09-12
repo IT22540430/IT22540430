@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Malmi Samaraweera</h1>
 <h3 align="center">A passionate frontend developer from Sri Lanka</h3>
-
+---
 - 🌱 I’m currently learning **Java**
 
 - 📫 How to reach me **malmisanjana2001@gmail.com**
